@@ -1,0 +1,22 @@
+body{
+	background-color: lightyellow
+}
+h1{
+	font-size: 15;
+	color: teal;
+	font-family: Arial;
+}
+h2{
+	font-size:35;
+	color: magenta;
+}
+.Arial{
+	font-family: Arial;
+
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.Arial.uppercase{
+	color: navy;
+}
